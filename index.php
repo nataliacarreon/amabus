@@ -170,8 +170,8 @@
           <div class="row row-40 justify-content-center">
             <div class="col-lg-6 col-12">
               <div class="offset-top-45 offset-lg-right-45">
-                <div class="section-name wow fadeInRight" data-wow-delay=".2s">About us</div>
-                <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">A Few Words<span class="text-primary"> about us</span></h3>
+                <div class="section-name wow fadeInRight" data-wow-delay=".2s">Forma parte de AMA</div>
+                <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">¡Te<span class="text-primary"> Necesitamos!</span></h3>
                 <p class="font-weight-bold text-gray-dark wow fadeInUp" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum nulla ac tincidunt malesuada. Sed volutpat semper elit quis pharetra. Etiam sodales a sem vitae fermentum.</p>
                 <p class="wow fadeInUp" data-wow-delay=".4s">Sapien eget mi proin sed libero enim sed faucibus turpis. Placerat in egestas erat imperdiet sed euismod nisi. Vulputate eu scelerisque felis imperdiet. Lorem donec massa sapien faucibus. Volutpat diam.</p>
                 <p class="wow fadeInUp" data-wow-delay=".4s">Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Nullam non nisi est sit amet facilisis magna etiam. Nec feugiat in fermentum posuere urna nec.</p>
@@ -179,7 +179,7 @@
                   <!--Linear progress bar-->
                   <article class="progress-linear">
                     <div class="progress-header progress-header-simple">
-                      <p>Management</p><span class="progress-value">85</span>
+                      <p>Management</p><span class="progress-value">8</span>
                     </div>
                     <div class="progress-bar-linear-wrap">
                       <div class="progress-bar-linear"></div>
@@ -188,7 +188,7 @@
                   <!--Linear progress bar-->
                   <article class="progress-linear">
                     <div class="progress-header progress-header-simple">
-                      <p>Marketing</p><span class="progress-value">45</span>
+                      <p>Marketing</p><span class="progress-value">5</span>
                     </div>
                     <div class="progress-bar-linear-wrap">
                       <div class="progress-bar-linear"></div>
@@ -197,7 +197,7 @@
                   <!--Linear progress bar-->
                   <article class="progress-linear">
                     <div class="progress-header progress-header-simple">
-                      <p>Analysis</p><span class="progress-value">90</span>
+                      <p>Analysis</p><span class="progress-value">9</span>
                     </div>
                     <div class="progress-bar-linear-wrap">
                       <div class="progress-bar-linear"></div>
@@ -207,7 +207,7 @@
               </div>
             </div>
             <div class="col-lg-6 col-sm-10 col-12">
-              <div class="block-decorate-img wow fadeInLeft" data-wow-delay=".2s"><img src="images/about-1-570x703.jpg" alt="" width="570" height="351"/>
+              <div class="block-decorate-img wow fadeInLeft" data-wow-delay=".2s"><img src="images/about-2-570x703.jpg" alt="" width="570" height="351"/>
               </div>
             </div>
           </div>
@@ -264,8 +264,8 @@
                 <div class="team-classic-img"><img src="images/team-classic-1-370x397.jpg" alt="" width="370" height="198"/>
                 </div>
                 <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">Gaby</h4><span class="d-block">CEO, Founder</span>
-                  <p>Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Et pharetra pharetra massa massa ultricies.</p>
+                  <h4 class="font-weight-bold">Gaby Pech</h4><span class="d-block">CEO, Fundadora</span>
+                  <p></p>
                   <hr class="offset-top-40"/>
                   <ul class="justify-content-center social-links offset-top-30">
                     <li><a class="fa fa-linkedin" href="#"></a></li>
@@ -281,8 +281,8 @@
                 <div class="team-classic-img"><img src="images/team-classic-2-370x397.jpg" alt="" width="370" height="198"/>
                 </div>
                 <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">Persona 1</h4><span class="d-block">Business Advisor</span>
-                  <p>Ut morbi tincidunt augue interdum velit. Sed euismod nisi porta lorem nisl rhoncus mattis rhoncus urna sed.</p>
+                  <h4 class="font-weight-bold">Roger Meneses</h4><span class="d-block">Gerente de Innovación</span>
+                  <p> </p>
                   <hr class="offset-top-40"/>
                   <ul class="justify-content-center social-links offset-top-30">
                     <li><a class="fa fa-linkedin" href="#"></a></li>
@@ -298,8 +298,8 @@
                 <div class="team-classic-img"><img src="images/team-classic-3-370x397.jpg" alt="" width="370" height="198"/>
                 </div>
                 <div class="block-320 text-center">
-                  <h4 class="font-weight-bold">Persona 2</h4><span class="d-block">Marketing Manager</span>
-                  <p>Vitae aliquet nec ullamcorper sit amet risus nullam eget felis. Euismod lacinia at quis risus sed vulputate.</p>
+                  <h4 class="font-weight-bold">Brenda Narciso</h4><span class="d-block">Coordinadora de Productores</span>
+                  <p> </p>
                   <hr class="offset-top-40"/>
                   <ul class="justify-content-center social-links offset-top-30">
                     <li><a class="fa fa-linkedin" href="#"></a></li>
