@@ -112,9 +112,9 @@
               <div class="block-sm offset-top-45">
                 <div class="section-name wow fadeInRight" data-wow-delay=".2s">Nosotros</div>
                 <h3 class="wow fadeInLeft text-capitalize devider-bottom" data-wow-delay=".3s">¿Qué<span class="text-primary"> hacemos?</span></h3>
-                <p class="offset-xl-40 wow fadeInUp" data-wow-delay=".4s">Somos AMA productos comunitarios, conectando a personas de todas las latitudes interesadas en adquirir bienes de origen mexicano, producidos por agricultores, transformadores y artesanos a pequeña escala provenientes de diversas comunidades rurales y pueblos indígenas mexicanos.
-                  
-                  Esta como otras iniciativas de Sustainable Commons y Ek Balam, buscan impulsar el desarrollo regenerativo y la participación responsable y consciente de las comunidades y públicos interesados.
+                <p class="offset-xl-40 wow fadeInUp" data-wow-delay=".4s">Somos AMA productos comunitarios, una red de cooperación conectando a personas de diversas latitudes interesadas en consumir productos de origen mexicano, producidos por agricultores, transformadores y artesanos a pequeña escala provenientes de diversas comunidades rurales, periurbanas y pueblos indígenas.
+                
+                  Esta como otras iniciativas de Sustainable Commons, buscan impulsar la resiliencia, el desarrollo regenerativo y la participación responsable y consciente de las comunidades y públicos interesados.
                   </p>
                 <p class="default-letter-spacing font-weight-bold text-gray-dark wow fadeInUp" data-wow-delay=".4s">Fomentando la construcción de sistemas y economías más justas, solidarias y libres.</p><a class="button-width-190 button-primary button-circle button-lg button offset-top-30" href="#">Leer más</a>
               </div>
@@ -134,26 +134,27 @@
                 <div class="col-xl-6 wow fadeInUp" data-wow-delay=".2s">
                   <div class="box-default">
                     <div class="box-default-title">Economía circular</div>
-                    <p class="box-default-description">Buscamos que nuestros productores logren comerciar y vender sus productos de manera justa. Promoviendo el valor del trabajo que hay detrás de cada producto
+                    <p class="box-default-description">Desvincular el desarrollo económico del deterioro medioambiental. Fomentando formas de producción regenerativas, uso eficiente de los recursos, distribución y comercialización estratégica, así como el fomento de formas de consumo responsables.
                     </p><span class="box-default-icon novi-icon icon-lg mercury-icon-money-2"></span>
                   </div>
                 </div>
                 <div class="col-xl-6 wow fadeInUp" data-wow-delay=".3s">
                   <div class="box-default">
-                    <div class="box-default-title">Mejor distribución de venta</div>
-                    <p class="box-default-description">Aumentar las posibilidades de que más personas conozcan AMA y sus productos, mediante una estrategia que permita llevar sus productos a más lugares.</p><span class="box-default-icon novi-icon icon-lg mercury-icon-globe-marker"></span>
+                    <div class="box-default-title">ALIMENTO ASEQUIBLE</div>
+                    <p class="box-default-description">Buscamos reducir el desperdicio de alimentos a lo largo de la cadena, con estrategias que permeen en cada eslabón, permitiendonos así producir únicamente lo que se comercializará, reducir mermas y favoreciendo la fijación de precios justos.</p><span class="box-default-icon novi-icon icon-lg mercury-icon-globe-marker"></span>
                   </div>
                 </div>
                 <div class="col-xl-6 wow fadeInUp" data-wow-delay=".4s">
                   <div class="box-default">
-                    <div class="box-default-title">Reclutamiento de productores</div>
-                    <p class="box-default-description">Lograr una red en donde se unan cada vez más productores que puedan crecer junto con AMA y mejorar los alcances de la organización.</p><span class="box-default-icon novi-icon icon-lg mercury-icon-partners"></span>
+                    <div class="box-default-title">COOPERACIÓN PARA EL DESARROLLO</div>
+                    <p class="box-default-description">Al ser una iniciativa de Sustainable Commons, la cooperación y alianzas entre múltiples interesados que movilicen e intercambien conocimientos, especialización,tecnología y recursos financieros, a fin de apoyar logros comunes entorno al sistema alimentario es pilar para la obtención resultados e impacto.</p><span class="box-default-icon novi-icon icon-lg mercury-icon-partners"></span>
                   </div>
                 </div>
                 <div class="col-xl-6 wow fadeInUp" data-wow-delay=".5s">
                   <div class="box-default">
-                    <div class="box-default-title">Recaudación de fondos</div>
-                    <p class="box-default-description">Por medio de donaciones de parte de personas que deseen apoyar a la organización, mejorar los medios para venta y distribución de los productos de AMA.</p><span class="box-default-icon novi-icon icon-lg mercury-icon-money"></span>
+                    <div class="box-default-title">AGRICULTORES, TRANSFORMADORES
+                      Y ARTESANOS</div>
+                    <p class="box-default-description">El sector de la producción de alimentos a pequeña escala y la producción artesanal tradicional se encuentra gravemente precarizado, a la vez que son las poblaciones indígenas quienes habitan un 80% de las áreas naturales protegidas en América Latina, siendo actores fundamentales en la preservación de la riqueza natural y cultural toda vez que ellos puedan gozar de sus DDHH y cubrir sus necesidades.</p><span class="box-default-icon novi-icon icon-lg mercury-icon-money"></span>
                   </div>
                 </div>
               </div>
@@ -171,15 +172,16 @@
             <div class="col-lg-6 col-12">
               <div class="offset-top-45 offset-lg-right-45">
                 <div class="section-name wow fadeInRight" data-wow-delay=".2s">Forma parte de AMA</div>
-                <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">¡Te<span class="text-primary"> Necesitamos!</span></h3>
-                <p class="font-weight-bold text-gray-dark wow fadeInUp" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum nulla ac tincidunt malesuada. Sed volutpat semper elit quis pharetra. Etiam sodales a sem vitae fermentum.</p>
-                <p class="wow fadeInUp" data-wow-delay=".4s">Sapien eget mi proin sed libero enim sed faucibus turpis. Placerat in egestas erat imperdiet sed euismod nisi. Vulputate eu scelerisque felis imperdiet. Lorem donec massa sapien faucibus. Volutpat diam.</p>
-                <p class="wow fadeInUp" data-wow-delay=".4s">Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Nullam non nisi est sit amet facilisis magna etiam. Nec feugiat in fermentum posuere urna nec.</p>
+                <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">¡Tu participación<span class="text-primary"> es valiosa!</span></h3>
+                <p class="font-weight-bold text-gray-dark wow fadeInUp" data-wow-delay=".4s">Creemos firmemente en un mejor futuro posible y esto lo podremos forjar a través de acciones que nos conduzcan hacia él</p>
+                <p class="wow fadeInUp" data-wow-delay=".4s">En AMA, estamos comprometidos en legar un mundo donde la justicia y el acceso a alimentos seguros, trabajo digno y agua potable, sea una realidad para todos los involucrados.
+                </p>
+                <p class="wow fadeInUp" data-wow-delay=".4s">Para ello este 2021 nos hemos puesto las siguientes metas:</p>
                 <div class="offset-top-20">
                   <!--Linear progress bar-->
                   <article class="progress-linear">
                     <div class="progress-header progress-header-simple">
-                      <p>Management</p><span class="progress-value">8</span>
+                      <p>Conformar al menos 3 clusters de producción bajo demanda.</p><span class="progress-value">33</span>
                     </div>
                     <div class="progress-bar-linear-wrap">
                       <div class="progress-bar-linear"></div>
@@ -188,7 +190,7 @@
                   <!--Linear progress bar-->
                   <article class="progress-linear">
                     <div class="progress-header progress-header-simple">
-                      <p>Marketing</p><span class="progress-value">5</span>
+                      <p>Cooperar con al menos 3 universidades o Centros de Investigación</p><span class="progress-value">100</span>
                     </div>
                     <div class="progress-bar-linear-wrap">
                       <div class="progress-bar-linear"></div>
@@ -197,7 +199,7 @@
                   <!--Linear progress bar-->
                   <article class="progress-linear">
                     <div class="progress-header progress-header-simple">
-                      <p>Analysis</p><span class="progress-value">9</span>
+                      <p>Incrementar el nivel de facturación anual al menos a $9,264,000</p><span class="progress-value">3.2</span>
                     </div>
                     <div class="progress-bar-linear-wrap">
                       <div class="progress-bar-linear"></div>
@@ -253,9 +255,11 @@
         <div class="container">
           <div class="row row-50 justify-content-center">
             <div class="col-md col-12 text-center">
-              <div class="section-name wow fadeInRight" data-wow-delay=".2s">equipo ama</div>
-              <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">Nuestro<span class="text-primary"> Equipo</span></h3>
-              <p class="block-675">Ama se conforma de una red de productores y artesanos independientes, si quieres saber más puedes contactar a alguno de los socios.</p>
+              <div class="section-name wow fadeInRight" data-wow-delay=".2s">AMA es una iniciativa de</div>
+              <h3 class="wow fadeInLeft text-capitalize" data-wow-delay=".3s">SUSTAINABLE<span class="text-primary"> COMMONS</span></h3>
+              <p class="block-675">La personas que hacen posible esta fabulosa red de cooperación somos ciudadanos de a pie que laboramos desde distintas trincheras
+                entretejiendo nuestros talentos. Formamos parte de comunidades indígenas, periurbanas, rurales, de comunidades académicas,
+                empresariales, ongs, instituciones públicas, somos profesionales independientes, voluntarios y entusiastas.</p>
             </div>
           </div>
           <div class="row row-50 justify-content-center">
@@ -320,45 +324,21 @@
           <div class="row row-30">
             <div class="col-lg-3 wow fadeInLeft">
               <!--Brand--><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-default-200x34.png" alt="" width="100" height="17"/><img class="brand-logo-light" src="images/logo-inverse-200x34.png" alt="" width="100" height="17"/></a>
-              <p class="footer-classic-description offset-top-0 offset-right-25">СonsultBiz provides a full range of business consulting & advisory services to small, medium, and international companies worldwide. We use innovations and experience to drive your success.</p>
+              <p class="footer-classic-description offset-top-0 offset-right-25">AMA productos comunitarios, una red de cooperación
+                conectando a personas de diversas latitudes interesadas en
+                consumir productos de origen mexicano</p>
             </div>
             <div class="col-lg-3 col-sm-8 wow fadeInUp">
-              <P class="footer-classic-title">contact info</P>
-              <div class="d-block offset-top-0">2164 Wall St, New York<span class="d-lg-block">NY 10122, USA</span></div><a class="d-inline-block accent-link" href="mailto:#">info@demolink.org</a><a class="d-inline-block" href="tel:#">+1 800 123 45 67</a>
-              <ul>
-                <li>Mon-Thu:<span class="d-inline-block offset-left-10 text-white">9:30 AM - 9:00 PM</span></li>
-                <li>Fri:<span class="d-inline-block offset-left-10 text-white">10:00 AM - 9:00 PM</span></li>
-                <li>Sat:<span class="d-inline-block offset-left-10 text-white">10:00 AM - 3:00 PM</span></li>
-              </ul>
-            </div>
-            <div class="col-lg-2 col-sm-4 wow fadeInUp" data-wow-delay=".3s">
-              <P class="footer-classic-title">Quick Links</P>
-              <ul class="footer-classic-nav-list">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About us</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="contacts.html">Contacts</a></li>
-              </ul>
-            </div>
-            <div class="col-lg-4 wow fadeInLeft" data-wow-delay=".2s">
-              <P class="footer-classic-title">newsletter</P>
-              <form class="rd-mailform text-left footer-classic-subscribe-form" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
-                <div class="form-wrap">
-                  <label class="form-label" for="subscribe-email">Your Email Address</label>
-                  <input class="form-input" id="subscribe-email" type="email" name="email" data-constraints="@Email @Required">
-                </div>
-                <div class="form-button group-sm text-center text-lg-left">
-                  <button class="button button-primary button-circle" type="submit">sign up</button>
-                </div>
-              </form>
-              <p>Be the first to find out about our latest news, updates, and special offers.</p>
+              <P class="footer-classic-title">ccontacto</P>
+              <a class="d-inline-block accent-link" href="mailto:#">sustainablecommonscid@gmail.com</a>
+              <a class="d-inline-block accent-link" href="mailto:#">ama.alimentoscomunitarios@gmail.com</a>
+              <a class="d-inline-block accent-link" href="mailto:#">ama@sustainablecommons.co</a>
             </div>
           </div>
         </div>
         <div class="container wow fadeInUp" data-wow-delay=".4s">
           <div class="footer-classic-aside">
-            <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span>. All Rights Reserved. Design by <a href="https://www.templatemonster.com">TemplateMonster</a></p>
+            <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span> Diseñado para seminario de investigación II <a href="">Universidad Anáhuac</a></p>
             <ul class="social-links">
               <li><a class="fa fa-linkedin" href="#"></a></li>
               <li><a class="fa fa fa-twitter" href="#"></a></li>
